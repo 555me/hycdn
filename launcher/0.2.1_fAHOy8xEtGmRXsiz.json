@@ -1,0 +1,36 @@
+{
+	"proxy_rsps":[
+	{
+		"kind":"get_protocol",
+		"get_protocol":{
+			"dataVersion":"6d1e16250de7bc1eafbfc808374b0874",
+			"protocol":{
+				"version":"1"
+			}
+		}
+	},
+	{
+		"kind":"get_latest_launcher",
+		"get_latest_launcher_rsp":{
+			"action":1,
+			"version":"0.2.1",
+			"request_version":"0.2.0",
+			"zip_package_url":"https://launcher.hycdn.cn/P1xe2sR8DSSnv8ns/launcher/1/1/Windows/0.2.1_fAHOy8xEtGmRXsiz/ic02-launcher-client-windows-0.2.1.60-1-full.zip",
+			"md5":"",
+			"package_size":"0",
+			"total_size":"0",
+			"description":""
+		}
+	},
+	{
+		"kind":"get_latest_game",
+		"get_latest_game_rsp":{
+			"action":100,
+			"version":"",
+			"request_version":"0.10.20",
+			"pkg":null,
+			"patch":null
+		}
+	}
+	]
+}
