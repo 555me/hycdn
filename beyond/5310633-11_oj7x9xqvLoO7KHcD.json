@@ -1,0 +1,77 @@
+{
+  "downloadType": 2,
+  "downloadData": {
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/1CDDBF1F/8322192D2446BA56D7621882BDD6D506.chk": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/1CDDBF1F/8322192D2446BA56D7621882BDD6D506.chk",
+      "patchSize": 34097913,
+      "fileId": 2,
+      "path": "1CDDBF1F/8322192D2446BA56D7621882BDD6D506.chk",
+      "base": "",
+      "fileName": "49ef11de-0faa-43ff-9690-75c723e73eb2",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/0CE8FA57/0CE8FA57.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/0CE8FA57/0CE8FA57.blc",
+      "patchSize": 105908,
+      "fileId": 12,
+      "path": "0CE8FA57/0CE8FA57.blc",
+      "base": "",
+      "fileName": "5257cf6a-4ed7-4c3c-b65e-9e0fdefcb884",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/DAFE52C9/2CA50138D17E019228F4EE80B6089222.chk": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/DAFE52C9/2CA50138D17E019228F4EE80B6089222.chk",
+      "patchSize": 7088,
+      "fileId": 5,
+      "path": "DAFE52C9/2CA50138D17E019228F4EE80B6089222.chk",
+      "base": "",
+      "fileName": "abebe04c-9c5c-4add-9743-9691e71a0035",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/DAFE52C9/17665AF5B7122D671A92C3161994342F.chk": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/DAFE52C9/17665AF5B7122D671A92C3161994342F.chk",
+      "patchSize": 1333,
+      "fileId": 4,
+      "path": "DAFE52C9/17665AF5B7122D671A92C3161994342F.chk",
+      "base": "",
+      "fileName": "83c9a988-bc74-4d88-aecb-ac6145298518",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/DAFE52C9/DAFE52C9.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/DAFE52C9/DAFE52C9.blc",
+      "patchSize": 895,
+      "fileId": 3,
+      "path": "DAFE52C9/DAFE52C9.blc",
+      "base": "",
+      "fileName": "5ec7be82-8c50-4c17-b5fc-a1510742c535",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/07A1BB91/07A1BB91.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/07A1BB91/07A1BB91.blc",
+      "patchSize": 371,
+      "fileId": 9,
+      "path": "07A1BB91/07A1BB91.blc",
+      "base": "",
+      "fileName": "7fef323a-d95d-4a40-861a-6402c45fa052",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/3C9D9D2D/3C9D9D2D.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/3C9D9D2D/3C9D9D2D.blc",
+      "patchSize": 229,
+      "fileId": 14,
+      "path": "3C9D9D2D/3C9D9D2D.blc",
+      "base": "",
+      "fileName": "b211b472-4175-41a2-9b87-be61068d9c92",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/1CDDBF1F/1CDDBF1F.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.0/resource/Android/initial/5310633-11_oj7x9xqvLoO7KHcD/files/VFS/1CDDBF1F/1CDDBF1F.blc",
+      "patchSize": 224,
+      "fileId": 1,
+      "path": "1CDDBF1F/1CDDBF1F.blc",
+      "base": "",
+      "fileName": "3ffb5f95-dfa6-4a3a-8410-c477ef3a3e66",
+      "md5": ""
+    }
+  }
+}
