@@ -1,0 +1,118 @@
+{
+  "action": 1,
+  "launcher_action": 0,
+  "patch": {
+    "file_id": "1",
+    "md5": "c49e093584143c0e9beec6f6d7d3b6af",
+    "package_size": "283947166",
+    "patches": [
+      {
+        "md5": "c49e093584143c0e9beec6f6d7d3b6af",
+        "package_size": "283947166",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/patches/69.0.0/production_069-69_0_0-410c0b71830-11-HG_69_0_0.zip.001"
+      }
+    ],
+    "total_size": "912525144",
+    "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/patches/production_069-69_0_0-410c0b71830-11-HG_69_0_0.zip"
+  },
+  "pkg": {
+    "file_id": "0",
+    "file_path": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/files",
+    "game_files_md5": "5d5f71dd2aefbd5b9aa5a92debdcb822",
+    "md5": "",
+    "package_size": "0",
+    "packs": [
+      {
+        "md5": "0cd1dd78abfdb8118c715183b7f08d86",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.001"
+      },
+      {
+        "md5": "2949851deb3c5db334a0b5b9398f1463",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.002"
+      },
+      {
+        "md5": "95ee9a16648fc917d8569df63db324d7",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.003"
+      },
+      {
+        "md5": "d7e846bac41cb8b5c61d7fa2849be4de",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.004"
+      },
+      {
+        "md5": "b9f9b59ebc2c46cd8c4b608eb06411aa",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.005"
+      },
+      {
+        "md5": "23fbc94eac45f57d1e9db38a2a399867",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.006"
+      },
+      {
+        "md5": "922d951a07c4007d9d325ed81ede1057",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.007"
+      },
+      {
+        "md5": "8f26c8e7f194da0715e8c2153c7404c3",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.008"
+      },
+      {
+        "md5": "e2b214d5a94eab70da699eebcd8f3db7",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.009"
+      },
+      {
+        "md5": "76afaf431543b05dc14fa3bd48656de6",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.010"
+      },
+      {
+        "md5": "83ff3035f57c3065d54c382a0fca02e6",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.011"
+      },
+      {
+        "md5": "433ab6dd9e7a31d0e064e8a2e696f5a4",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.012"
+      },
+      {
+        "md5": "1800b360957146f7808e77e9d3b0d1fb",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.013"
+      },
+      {
+        "md5": "95a001427c1fd7fb1f6d31c64a8681f7",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.014"
+      },
+      {
+        "md5": "3ddbbd5f001b00ca19846e94415f81de",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.015"
+      },
+      {
+        "md5": "c88c53d6620678224bbcba23bb4588a3",
+        "package_size": "1073741824",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.016"
+      },
+      {
+        "md5": "daeba934e351e3399517efc5f4a92876",
+        "package_size": "732346572",
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/69.0/update/1/1/Windows/69.0.2_quLiAy9l5N9PHi54/packs/Arknights_HG.zip.017"
+      }
+    ],
+    "sub_channel": "1",
+    "total_size": "39622806597",
+    "url": ""
+  },
+  "request_version": "69.0.0",
+  "state": 0,
+  "version": "69.0.2"
+}
