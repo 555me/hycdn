@@ -1,0 +1,108 @@
+{
+  "action": 1,
+  "version": "1.1.2",
+  "request_version": "1.0.5",
+  "pkg": {
+    "packs": [
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.001?auth_key=1770790226-13ec9ed9a3c64b279bb0719dc16a4bc7-0-40c650f039c88dc0986d20a6b58f9a48",
+        "md5": "e0f43eda6d14c079336a7c37898536ac",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.002?auth_key=1770790226-f071e7c9043b41bb92269b6b3e0b4048-0-9ffab0414fa55f72d060d8f15406ee83",
+        "md5": "3377393a22ccb7df61e45c1b2cfa72d9",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.003?auth_key=1770790226-13a327d982d4438982a031811bb64994-0-915e5989955cbe6ff3ff4fd8bc3e4f45",
+        "md5": "19e19829e6941d5feac58fca4437df66",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.004?auth_key=1770790226-edf497599eaa4d01a92f31fce59a367d-0-1f248701602528bbd53720c117c60e57",
+        "md5": "2dadb25ad6044aa6238f28743d9326a0",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.005?auth_key=1770790226-43802d8f87514f2ea1e47d663167d31f-0-c3ce51180efe59b50af27efb8f868559",
+        "md5": "927d94490ac2416a5791b276dd99b133",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.006?auth_key=1770790226-a45f646d90154b0baf57c84d20ff4bf5-0-9d681e9219f491770fec5726df653f22",
+        "md5": "8349ed71e41567f409a4cdc4946a7283",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.007?auth_key=1770790226-df453d8e31354ad98fea7248c5740886-0-4b301c44f8c79f6af9d2a343f967ad3c",
+        "md5": "22a55b67bb3582aad028cc8dd189060b",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.008?auth_key=1770790226-ca0db3a8c2db4ab1ad08481f034efce7-0-38e795feee92f81268301f22c89741f9",
+        "md5": "92b894b544d1d8beb0e5803895239caa",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/packs/1.1.2_OOMdICeLXEqI1cNj.zip.009?auth_key=1770790226-cb314bd15555466c850f3e7c4e89f5fa-0-6b9e599ba0f606f57d1a053cf34df127",
+        "md5": "fea3346885ee5842f0762ecde60078bb",
+        "package_size": "676778303"
+      }
+    ],
+    "total_size": "20004104466",
+    "file_path": "https://popucom.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/files",
+    "url": "",
+    "md5": "",
+    "package_size": "0",
+    "file_id": "0",
+    "sub_channel": "1",
+    "game_files_md5": "9dfea3832e51537b994425f7cebf6411"
+  },
+  "patch": {
+    "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip?auth_key=1770790226-baee5bf7365343b9a96d102e4055a909-0-a249d2c952397a44a86b5a024e6ad491",
+    "md5": "c65c06f3b7c3b3fd81f8e272a015a125",
+    "package_size": "6802978424",
+    "total_size": "14479083274",
+    "file_id": "1",
+    "patches": [
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1.0.5/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip.001?auth_key=1770790226-0045d7dc55934321a2880ebb32255bf9-0-20c11f005bc645e095f67c43cf337c97",
+        "md5": "5f61b3ce213afd94f8258561bcc8bd9b",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1.0.5/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip.002?auth_key=1770790226-1bffbe6bb18d4a779824ad7a8dd6d0e6-0-b515b7c6e6f8be3b4212781777b7dbf7",
+        "md5": "ead840265d8be9f5229718bb55951c81",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1.0.5/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip.003?auth_key=1770790226-bf1c36a0c50b4620947beef1dac910b5-0-7f1422f6af0057185c8af4c777ddc480",
+        "md5": "0cb48dc29dcec57162bcdb7f02a6dbad",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1.0.5/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip.004?auth_key=1770790226-60334fa7552945a9982e779d2a5a6da3-0-2594739e21789ab0935d37621e09d23e",
+        "md5": "c7ad5fd8dc35bce8b287f323c60eb6c4",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1.0.5/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip.005?auth_key=1770790226-999c70bdd08b4e84bb512624617d4be9-0-e6bcc225b0210d337fafe9709b82ddeb",
+        "md5": "731404da1d33365753ddd726259e2d2e",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1.0.5/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip.006?auth_key=1770790226-425a429db00049bf92ed6a5e0ae74260-0-6fb2cffaae7d7354b84fb087070236d5",
+        "md5": "3902aa21d32c09bd50f8719e640348aa",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://popucom-sign.hycdn.cn/Vp2jukCCSUGztqli/1.1/update/1/1/Windows/1.1.2_OOMdICeLXEqI1cNj/patches/1.0.5/1_0_5_P3k8lgjFS89h9mkp_1_0_5.zip.007?auth_key=1770790226-fcdcc2e5cad64465878ea6207363b542-0-05433105f34323ffab02f0b673e13127",
+        "md5": "dec543aae28302fee42d9f10d956efe2",
+        "package_size": "360527480"
+      }
+    ]
+  },
+  "state": 0,
+  "launcher_action": 0
+}
