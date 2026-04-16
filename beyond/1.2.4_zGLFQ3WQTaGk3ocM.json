@@ -1,0 +1,316 @@
+{
+  "action": 1,
+  "version": "1.2.4",
+  "request_version": "1.1.9",
+  "pkg": {
+    "packs": [
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.001?auth_key=1776377682-3392ddbbdd9b41f9baa9b91c0dbf8362-0-61ad084ed917eaede420273beaee0aa4",
+        "md5": "4fb5ccfd35ab7567cec71bc86a392bd7",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.002?auth_key=1776377682-c420dc0547014e62a117f3840148eb97-0-42f45a026b9d899a76d6e2611337bfda",
+        "md5": "3ff4d614c3a936f1c9129fcde78da2cf",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.003?auth_key=1776377682-7dc6676258d9461980953fa65799bf49-0-8de3b8d56900ca9f73e0de51e4d14ac9",
+        "md5": "de5964bf01418446ad4854ae70a93133",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.004?auth_key=1776377682-299aa77f83b14073870fd01f67dae789-0-74fd2007c66b5cd3e28936ffdd058d4f",
+        "md5": "ff218f74d998f3e4acf66e1cde7a6566",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.005?auth_key=1776377682-d6ae88f7dcc94056a68dc37c3e5bf877-0-fd3eb42ecf94df7ac3cdc3bcee5721b6",
+        "md5": "e976d806d93d312d6ea2c7cbcc6b376a",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.006?auth_key=1776377682-201f93ccfcca44bbbe7188af147e4a36-0-6df7a26652d6afda1342cd63990af05c",
+        "md5": "a93fc75be42c289114868dbc5d8e2c4d",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.007?auth_key=1776377682-3971f00f3eef45558c77ee3a2bc614ed-0-ab30675a4da450aee2100bf05391c6db",
+        "md5": "986354690eab1262e747d28a2e2d36b3",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.008?auth_key=1776377682-09badafea2bc44c78cec23d4b048273f-0-e108b48b62344435a06493826c8b0b28",
+        "md5": "f11616387ab82b18eaa90e0a7b70f494",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.009?auth_key=1776377682-171cc39469da4e60bb23f79df123136d-0-dd05cd97dc0e89dc75e5b29b1dd33abb",
+        "md5": "dd788c47d401d444ac00ec18ddecfd80",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.010?auth_key=1776377682-88e5cec4b16b426e99a85b94b4a0b24a-0-ea32e48fec1cd63394140be93c8e9d3f",
+        "md5": "1bd3abb7a4f3eb273ff6787efad9fff1",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.011?auth_key=1776377682-d53968e74dea490082aaec874de9ac5f-0-50b57b09385030c4bb57dbb6d16cef34",
+        "md5": "b0f9d724e13f4b4a7c726c319b20fd0e",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.012?auth_key=1776377682-6b3de61cbbe847e9b08e06c4a337c5e6-0-5d5a41f9e3915a8a1308ce560d8d89d9",
+        "md5": "d19b293273bcf45f94251a41508de44f",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.013?auth_key=1776377682-667dba521d0a46aba7257967de8d791d-0-8508857c40e9b980c0bb2c540cd70dc5",
+        "md5": "c5a0630a9f705414132e03df38a0790c",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.014?auth_key=1776377682-252ae2f2bab746419ade3097202847d4-0-0a5a964fe371694b86855d5bb56b8049",
+        "md5": "8838e2f245152f248e7cb975d75472bc",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.015?auth_key=1776377682-d202f846165342e09ddc7e691a86267c-0-6b7e901ec33383bb2f4d237f14964756",
+        "md5": "e8bd907029888d0afa7f02a96a4a4123",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.016?auth_key=1776377682-68e29104498540b3b09142a89c61d1e1-0-c3954ff5bb65dfaea93b3602abb7e108",
+        "md5": "49e02ab4c325d72f6d055381c20025ac",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.017?auth_key=1776377682-b4cfb3c79c2a4be3a32b07d17326605d-0-89048b840c624e264941d37f8d9b7f24",
+        "md5": "7ba4fcc339feae5790188ab88dd72df8",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.018?auth_key=1776377682-38e55529171c4e558b744568cd4af7d9-0-7ebbdedbbf39ce49f28fafd06ec56d69",
+        "md5": "fea529d9ddb10412c6c653b279dd245f",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.019?auth_key=1776377682-d7fc3b04786745f6986c541c3a6b95df-0-25a65f5c6879e5e16c704f4d2ee04990",
+        "md5": "20c261ad960a347fc995cb7929be5241",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.020?auth_key=1776377682-ef4dc3a695974b248e568e0671508cf1-0-6a7984d6a7ed59820ee2185791e35345",
+        "md5": "103e08b5b1822f99122e3a45d5f88170",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.021?auth_key=1776377682-59cc34efee3f406a9d020b320898b335-0-f2fbee708de76284c9f2a9176f46f40e",
+        "md5": "78c384ae7fa9bdcea217a4c1f214ce56",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.022?auth_key=1776377682-c6df28b1e5504cc4b04a1d5cb13a412f-0-dbbab7fa30bf3f9c33d048d331d90eb0",
+        "md5": "8327257f7414053ee6c9d5850562fe7c",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.023?auth_key=1776377682-0726ea346b1f4f6badb2b4a7d3d78fe7-0-13731a41a77e1be3799090516b04d6ae",
+        "md5": "db16a2491e3ca020820fd0489edabc9b",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.024?auth_key=1776377682-d6b022c41b5d4f7ab64adb7287b3f37c-0-342e8dca5187daa257d147a835c67d28",
+        "md5": "b24841fee3bc32fc509d134e96c544c5",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.025?auth_key=1776377682-01cce85d3c424afcac542391aaab07fa-0-930ebeee9592600d3f9f0fcba523206b",
+        "md5": "8ea7d829bc792f33f60bf5794e748bf2",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.026?auth_key=1776377682-a27dcf23d81a4fdcb05b563d56d891d0-0-06679412334792ea9198a8f92500bdb6",
+        "md5": "eaf38861eb2893a88ba11916dc11529c",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.027?auth_key=1776377682-0e2f11a453fc471a80553aa07888fd2e-0-7244c4768d83f7d95a28e1b49f1790ca",
+        "md5": "e3848319e7bd1b577122ae09aeacde50",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.028?auth_key=1776377682-b6c2a5a09d3947a5a7e0df16b244edae-0-128596b789a4fc3f7a45b0a9bb760562",
+        "md5": "dc1623901d3a47bf19c9cee2ba076446",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.029?auth_key=1776377682-ee114c3697844c4c8d6c1566a2cd1f7c-0-c6422a2728512c7803b4bcadd0f13ca5",
+        "md5": "0cb9eec40cdc90515d85f9f1e3dbf3a5",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.030?auth_key=1776377682-3bf9980fd3ad4bf99888bd08ec641026-0-2fbe78f80ef53f4867be4060adc701d7",
+        "md5": "057e4e4fe37724ecda028cdaa8028eb6",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.031?auth_key=1776377682-b51119ab61ba4233a907cac301b2fb99-0-45fdbc789a95ea22fdbcf77830de4ce0",
+        "md5": "b35caeb790206611b7cbda81535d3c96",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.032?auth_key=1776377682-94bd7a7921344545bca54fc74819f3a3-0-b4bf9147f3c7679d87cbf862d3159568",
+        "md5": "58eb3436f52b79b55f00f9477a9378ea",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.033?auth_key=1776377682-4ef7f7c30ded421f9c185d5daa47cfde-0-afcb5038486faa16dca1773be2dd4ae4",
+        "md5": "fc323842d9fb8f00a4939b6b9d60c796",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.034?auth_key=1776377682-fb7c0792ac124fb3874c61e77a6f092c-0-1b77fc5bcd66f6e7cd526144fa0d4ee4",
+        "md5": "d1bad6b12b5fb51cef435027aa9bc41a",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.035?auth_key=1776377682-e68a63af5f3f46b2827158b7f1ee193f-0-2fa779a7f6d857436eb60fbc5b7e932e",
+        "md5": "22654c752578ad5352714ce302a1258c",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.036?auth_key=1776377682-18b96b9814444a69ad452cf619c1e71f-0-0897a4fe45e714f3d2c3db566269ed10",
+        "md5": "9d6f097644a929b7ff0c61fb007e6cd4",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.037?auth_key=1776377682-4c4d759d472e4dd0a58adfb8f3e46917-0-7a50f0d4eba4e8078a23d50dd109f056",
+        "md5": "6aceca6b940cce172fc6166a89cba5c2",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.038?auth_key=1776377682-5884db363f61473d93f9eaea57cdfee5-0-63962ef521b44932e4bc0a142493a348",
+        "md5": "86151dd3d476192865038d5a24e210d8",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.039?auth_key=1776377682-443174e61a2149b88c0b3da1e4ca6039-0-61582a18336f693b6dfadde3bbdfb1b2",
+        "md5": "b59a8a3262ae8950ec9ef20c4a35fefa",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.040?auth_key=1776377682-32c22fd5b2f14cf8b8868ccde1482be4-0-86786801aa6e2321271276abf87bcada",
+        "md5": "93c50e603d7f19e46ac5069dee73d1ee",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.041?auth_key=1776377682-b05ce6c0387e471fbe6c2aad8c467105-0-1d22611863931b7a2d9baa4fb24b1d2d",
+        "md5": "97d6f5af7f9b93e8ae7d5508928ccc05",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.042?auth_key=1776377682-d7c9fd4771694615ad434288ed2f1517-0-bad65bf3aac98fb3ed620ef92689d39c",
+        "md5": "836e170c67d8ee6328ac9606a53c4f10",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.043?auth_key=1776377682-e705a40cfed24678937faee1522c9b5e-0-5b8126df24cebbac9a9bee52a130ebe9",
+        "md5": "a183c6b17c862c170fe4a122d3574d38",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.044?auth_key=1776377682-0615d623431c482aa34df55d3782d3fe-0-e0557e70590907f401a21d139380db14",
+        "md5": "c711141c1984500dbaae7c1fc48ca28b",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.045?auth_key=1776377682-4a2e946b603d4baba409d57274e4ff64-0-907f93bea7c252cce9ca7564cfc01f4c",
+        "md5": "f8c63c1bb2fd601cb0a75833f08d0659",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/packs/Beyond_Release_v1d2-Rel-cn-6434019-7_prod_obt_official.zip.046?auth_key=1776377682-2b9e191bbf5b4965965bf398576bac17-0-e8b12c3abd0886008c1852d4c77fe74b",
+        "md5": "800f9ba1a95861c737e770c9f2e54409",
+        "package_size": "255793878"
+      }
+    ],
+    "total_size": "107463372218",
+    "file_path": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/files",
+    "url": "",
+    "md5": "",
+    "package_size": "0",
+    "file_id": "0",
+    "sub_channel": "1",
+    "game_files_md5": "f60231886761731160dd4551725738ab"
+  },
+  "patch": {
+    "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9.zip?auth_key=1776377682-0642a25359f44ca0ab10a484f614ae8a-0-5f6e17e6d33d32f4d42b1cfb98e8a555",
+    "md5": "2ef98b7b90fe8579c2195dd309387df7",
+    "package_size": "10959250917",
+    "total_size": "24177861370",
+    "file_id": "1",
+    "patches": [
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.001?auth_key=1776377682-6db9a38f1f9241a99d1967ef12978936-0-e470e6702be0a1a450c7ab38626f5467",
+        "md5": "68121182e466d4b7afd45ef6dedf9907",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.002?auth_key=1776377682-de8112721d724e628f8a96f533160e35-0-2e98679dfc39b673b4e4044ae6624e68",
+        "md5": "2789a811c7e8fed881011bee7822da7e",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.003?auth_key=1776377682-7bbed42b5bea41ca92ac80c6ff4c2872-0-39a8e9da51c7a5d4606ed633cfd61612",
+        "md5": "438aba86a3950eb8745d577c31e648cb",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.004?auth_key=1776377682-f80f76caab094767b1d57f21ab63bea9-0-cc7a4ae340ba67d819dff971c607c0ef",
+        "md5": "a3bc960fb0a63582541b4b0b8fc1bb3d",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.005?auth_key=1776377682-496e061f31054a05bd27a265e1e87fae-0-d0c3aeb495665f67db44eb8311c7da6d",
+        "md5": "c4c65bb02e35012c15e5d51ab8d062fd",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.006?auth_key=1776377682-e67b1551a9f54b93be5c35164604e892-0-e32f9bb54e1b898cad76cf4e9a34c5bd",
+        "md5": "38673c767e4d0d2a21e86ca46fe36cd4",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.007?auth_key=1776377682-6de2aa9a270b4e18884be1b0e081fe47-0-8ddf83e99b1a70ec5ecdec05134a5a31",
+        "md5": "b700f369e42d2ae9e2c6700148c6fd61",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.008?auth_key=1776377682-7ac525105b044947a176044512fd1477-0-d931cb598035684596b142d992cacd13",
+        "md5": "635a06c062c5e7ff689ee0a8c59e4f4d",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.009?auth_key=1776377682-752c441aa4164c8a86cdbb26e7c421b5-0-1c6ad8038df1b4c118079120eac34578",
+        "md5": "7b94dab30e29becd68c2105f7918bb80",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.010?auth_key=1776377682-6b623138bb4a421489b57fcd8fc47ca5-0-80f16d07a13af116d22831a85fcafcd2",
+        "md5": "d9fbdff5d5120bea77a3e0a29c6c4aa6",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/Beyond_Release_v1d1-Rel-cn-5769412-7_prod_obt_official_1_1_9_BDECv_v2.zip.011?auth_key=1776377682-780fa6eed9d14ff6b126afcbb784e17f-0-06ab885b38cf98d0f7d62901d7f85add",
+        "md5": "7c0d13712c49d232eac7dcfb59303685",
+        "package_size": "221832677"
+      }
+    ],
+    "v2_patch_info_url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/update/1/1/Windows/1.2.4_zGLFQ3WQTaGk3ocM/patches/30cT6Ahh66/1.1.9/v2/patch.json?auth_key=1776377682-de09beb32e2444878bc15725b5ade0d3-0-40a869db6aa366c6379c22fac96d2768",
+    "v2_patch_info_size": "158598",
+    "v2_patch_info_md5": "c4f1f947f064a7e00ce6f33d0fb47194"
+  },
+  "state": 0,
+  "launcher_action": 0
+}
