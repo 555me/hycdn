@@ -1,0 +1,374 @@
+{
+  "downloadType": 2,
+  "downloadData": {
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/1CDDBF1F/B34330FBE8836BFE1E213FB5716CCFD4.chk": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/1CDDBF1F/B34330FBE8836BFE1E213FB5716CCFD4.chk",
+      "patchSize": 42113775,
+      "fileId": 2,
+      "path": "1CDDBF1F/B34330FBE8836BFE1E213FB5716CCFD4.chk",
+      "base": "",
+      "fileName": "0a650052-a52d-4f25-866c-4842ec02ae6d",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/0CE8FA57/0CE8FA57.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/0CE8FA57/0CE8FA57.blc",
+      "patchSize": 113520,
+      "fileId": 8,
+      "path": "0CE8FA57/0CE8FA57.blc",
+      "base": "",
+      "fileName": "5e771fdd-d1ad-49ba-8e6d-f286fcd11893",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/07A1BB91/07A1BB91.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/07A1BB91/07A1BB91.blc",
+      "patchSize": 387,
+      "fileId": 5,
+      "path": "07A1BB91/07A1BB91.blc",
+      "base": "",
+      "fileName": "f1703ba9-cb89-4d39-a90e-c93062f89543",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/DAFE52C9/DAFE52C9.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/DAFE52C9/DAFE52C9.blc",
+      "patchSize": 247,
+      "fileId": 3,
+      "path": "DAFE52C9/DAFE52C9.blc",
+      "base": "",
+      "fileName": "ac33a042-2dea-4bf6-b64a-70c5577661f7",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/3C9D9D2D/3C9D9D2D.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/3C9D9D2D/3C9D9D2D.blc",
+      "patchSize": 237,
+      "fileId": 10,
+      "path": "3C9D9D2D/3C9D9D2D.blc",
+      "base": "",
+      "fileName": "c90a564c-db0a-4b72-9a4d-5dba5f925062",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/1CDDBF1F/1CDDBF1F.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/initial/6668018-9_zEuYEIMgdH0Vu2PL/files/VFS/1CDDBF1F/1CDDBF1F.blc",
+      "patchSize": 232,
+      "fileId": 1,
+      "path": "1CDDBF1F/1CDDBF1F.blc",
+      "base": "",
+      "fileName": "7542c996-9dad-45c6-a777-700f2fc1563a",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/7064D8E2/7064D8E2.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/7064D8E2/7064D8E2.blc",
+      "patchSize": 28540193,
+      "fileId": 30,
+      "path": "7064D8E2/7064D8E2.blc",
+      "base": "",
+      "fileName": "255d70eb-d2d1-4122-9674-f185703286b1",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/775A31D1/775A31D1.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/775A31D1/775A31D1.blc",
+      "patchSize": 9821247,
+      "fileId": 470,
+      "path": "775A31D1/775A31D1.blc",
+      "base": "",
+      "fileName": "0d0cfc72-f6c2-4bc0-8da9-24f0250fa752",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/C3442D43/C3442D43.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/C3442D43/C3442D43.blc",
+      "patchSize": 4589084,
+      "fileId": 630,
+      "path": "C3442D43/C3442D43.blc",
+      "base": "",
+      "fileName": "0550df46-ccb9-4776-a6a3-7a596af0e16d",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/80381AA78757CC490B40AA8022CC865B.chk": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/80381AA78757CC490B40AA8022CC865B.chk",
+      "patchSize": 3082696,
+      "fileId": 707,
+      "path": "23D53F5D/80381AA78757CC490B40AA8022CC865B.chk",
+      "base": "",
+      "fileName": "ff060c60-93ff-4c4c-8e00-802052a64dd9",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/9937A9019ABA915838C6D938607ED768.chk": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/9937A9019ABA915838C6D938607ED768.chk",
+      "patchSize": 937908,
+      "fileId": 710,
+      "path": "23D53F5D/9937A9019ABA915838C6D938607ED768.chk",
+      "base": "",
+      "fileName": "84a2a4b7-93b9-4d21-8775-c8585c9c1615",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/23D53F5D.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/23D53F5D.blc",
+      "patchSize": 406471,
+      "fileId": 693,
+      "path": "23D53F5D/23D53F5D.blc",
+      "base": "",
+      "fileName": "3bf64035-919b-4919-a518-2b232aba95f8",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_6D28A1A0212F0F5F2C3D29DBC4EEC16F.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_6D28A1A0212F0F5F2C3D29DBC4EEC16F.chk_patch",
+      "patchSize": 232681,
+      "fileId": 504,
+      "path": "775A31D1/6D28A1A0212F0F5F2C3D29DBC4EEC16F.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/775A31D1/0BA6CACA0390DBFE6E05FB1C9F53FAC3.chk",
+      "fileName": "9692a329-7d0c-4e96-81ae-d54660781d3a",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/6432320A/6432320A.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/6432320A/6432320A.blc",
+      "patchSize": 186756,
+      "fileId": 1,
+      "path": "6432320A/6432320A.blc",
+      "base": "",
+      "fileName": "8013c6aa-ba28-4e84-97f2-ce5e2db03d63",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/23D53F5D_EB3383DECA4F6DBF5252A767E6279C04.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/23D53F5D_EB3383DECA4F6DBF5252A767E6279C04.chk_patch",
+      "patchSize": 150611,
+      "fileId": 719,
+      "path": "23D53F5D/EB3383DECA4F6DBF5252A767E6279C04.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/23D53F5D/AC0A5B760CA21DA07945A3AFD37DDA67.chk",
+      "fileName": "78575df8-1d3b-4285-b614-6a2cb730ef2f",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/19E3AE45/19E3AE45.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/19E3AE45/19E3AE45.blc",
+      "patchSize": 149866,
+      "fileId": 537,
+      "path": "19E3AE45/19E3AE45.blc",
+      "base": "",
+      "fileName": "fd7623f1-a7b5-4155-9952-3565b16fd806",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/19E3AE45_016304F1913699A806193B1C8D6ED141.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/19E3AE45_016304F1913699A806193B1C8D6ED141.chk_patch",
+      "patchSize": 108217,
+      "fileId": 538,
+      "path": "19E3AE45/016304F1913699A806193B1C8D6ED141.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/19E3AE45/0825402BCEFF6A9C464C6B67BD5C66A6.chk",
+      "fileName": "ed9eb5d4-d0a1-4997-9782-2ff8828a669e",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/55FC21C6/55FC21C6.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/55FC21C6/55FC21C6.blc",
+      "patchSize": 76615,
+      "fileId": 47,
+      "path": "55FC21C6/55FC21C6.blc",
+      "base": "",
+      "fileName": "3788de56-a1c6-4f7b-a399-0401ee1741bc",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/42A8FCA6/42A8FCA6.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/42A8FCA6/42A8FCA6.blc",
+      "patchSize": 70542,
+      "fileId": 539,
+      "path": "42A8FCA6/42A8FCA6.blc",
+      "base": "",
+      "fileName": "e57ea898-0f3c-46ee-923a-ad2231765ed3",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_4018CE0DE1603D3196D552D9393E4DF7.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_4018CE0DE1603D3196D552D9393E4DF7.chk_patch",
+      "patchSize": 43590,
+      "fileId": 490,
+      "path": "775A31D1/4018CE0DE1603D3196D552D9393E4DF7.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/775A31D1/17C7E2189BB4A4DF3EAADDBE27C69A6D.chk",
+      "fileName": "9793b554-182e-4b08-91ce-4ecff87d7dbd",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/B9358E30/B9358E30.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/B9358E30/B9358E30.blc",
+      "patchSize": 26210,
+      "fileId": 3,
+      "path": "B9358E30/B9358E30.blc",
+      "base": "",
+      "fileName": "8f8e0907-9757-4ef9-b476-3fd69a71ae28",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/7064D8E2_5AF687C523D24FECA608F371FF61AF7B.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/7064D8E2_5AF687C523D24FECA608F371FF61AF7B.chk_patch",
+      "patchSize": 26026,
+      "fileId": 39,
+      "path": "7064D8E2/5AF687C523D24FECA608F371FF61AF7B.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/7064D8E2/AE8CBC66CA92E6DDD95000AFAF5E3D1A.chk",
+      "fileName": "1a28df7a-d00e-4949-a281-f5764e474565",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/A63D7E6A/A63D7E6A.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/A63D7E6A/A63D7E6A.blc",
+      "patchSize": 21111,
+      "fileId": 577,
+      "path": "A63D7E6A/A63D7E6A.blc",
+      "base": "",
+      "fileName": "57aafda1-9cb6-4d83-bf89-d536129de44a",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/DCA0072F1E39BBBF43C8E3D4C7BEFEFC.chk": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/23D53F5D/DCA0072F1E39BBBF43C8E3D4C7BEFEFC.chk",
+      "patchSize": 12648,
+      "fileId": 718,
+      "path": "23D53F5D/DCA0072F1E39BBBF43C8E3D4C7BEFEFC.chk",
+      "base": "",
+      "fileName": "d26755eb-1997-4546-9d71-405b0b5cc383",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_CA2A39483794B2DAA259758C1FC6C9BF.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_CA2A39483794B2DAA259758C1FC6C9BF.chk_patch",
+      "patchSize": 6642,
+      "fileId": 526,
+      "path": "775A31D1/CA2A39483794B2DAA259758C1FC6C9BF.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/775A31D1/C43FF76B1BF8E139124FF2D42B52CA43.chk",
+      "fileName": "416bd1a6-cb5b-4a75-b06a-6207a3f52a7d",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/06223FE2/06223FE2.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/06223FE2/06223FE2.blc",
+      "patchSize": 3264,
+      "fileId": 5,
+      "path": "06223FE2/06223FE2.blc",
+      "base": "",
+      "fileName": "b216483a-89b7-45af-9f90-f91f503420e0",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/6432320A_E7330F379745A5666F6FE5544D363FD9.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/6432320A_E7330F379745A5666F6FE5544D363FD9.chk_patch",
+      "patchSize": 592,
+      "fileId": 2,
+      "path": "6432320A/E7330F379745A5666F6FE5544D363FD9.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/6432320A/83CD6750A955F13F39F80407B0AE4408.chk",
+      "fileName": "3fb86542-780c-478b-b60b-3379cfd3b0fd",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/42A8FCA6_6CFDAECA4C9C253122E8927F579D83B0.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/42A8FCA6_6CFDAECA4C9C253122E8927F579D83B0.chk_patch",
+      "patchSize": 558,
+      "fileId": 556,
+      "path": "42A8FCA6/6CFDAECA4C9C253122E8927F579D83B0.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/42A8FCA6/D78BBB7344411C70DC5BD7C378EEFE62.chk",
+      "fileName": "9b53f92d-1733-4f90-aefa-984e60341e67",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/24ED34CF/24ED34CF.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/24ED34CF/24ED34CF.blc",
+      "patchSize": 546,
+      "fileId": 11,
+      "path": "24ED34CF/24ED34CF.blc",
+      "base": "",
+      "fileName": "c518ce10-90ac-41eb-b16d-d9d5b71a22f4",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/F668D4EE/F668D4EE.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/F668D4EE/F668D4EE.blc",
+      "patchSize": 417,
+      "fileId": 21,
+      "path": "F668D4EE/F668D4EE.blc",
+      "base": "",
+      "fileName": "7ce255d7-722c-4cb5-b8de-63805133b5bf",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/E1E7D7CE/E1E7D7CE.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/E1E7D7CE/E1E7D7CE.blc",
+      "patchSize": 412,
+      "fileId": 15,
+      "path": "E1E7D7CE/E1E7D7CE.blc",
+      "base": "",
+      "fileName": "eb5cdf98-9808-446e-95de-3c1f5e32d05a",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/A31457D0/A31457D0.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/A31457D0/A31457D0.blc",
+      "patchSize": 412,
+      "fileId": 18,
+      "path": "A31457D0/A31457D0.blc",
+      "base": "",
+      "fileName": "d75209e3-9376-4dca-8cba-d49a3a50abaa",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/E9D31017/E9D31017.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/E9D31017/E9D31017.blc",
+      "patchSize": 407,
+      "fileId": 24,
+      "path": "E9D31017/E9D31017.blc",
+      "base": "",
+      "fileName": "95430911-5616-49c6-b662-e09fee89ad60",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/F151B649/F151B649.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/F151B649/F151B649.blc",
+      "patchSize": 389,
+      "fileId": 27,
+      "path": "F151B649/F151B649.blc",
+      "base": "",
+      "fileName": "b91f5d38-0f71-4925-9190-314105634408",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/1EBAF5C6/1EBAF5C6.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/1EBAF5C6/1EBAF5C6.blc",
+      "patchSize": 386,
+      "fileId": 7,
+      "path": "1EBAF5C6/1EBAF5C6.blc",
+      "base": "",
+      "fileName": "9fc8eab2-bd89-452c-a7a7-85e8f18509d2",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/D6E622F7/D6E622F7.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/D6E622F7/D6E622F7.blc",
+      "patchSize": 324,
+      "fileId": 721,
+      "path": "D6E622F7/D6E622F7.blc",
+      "base": "",
+      "fileName": "ee9bd3c0-1cae-4a77-a9c8-2f35faeeec29",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/2E6CE44D/2E6CE44D.blc": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/VFS/2E6CE44D/2E6CE44D.blc",
+      "patchSize": 71,
+      "fileId": 10,
+      "path": "2E6CE44D/2E6CE44D.blc",
+      "base": "",
+      "fileName": "736631d4-6c35-4f60-a780-66f8f5d7f782",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/23D53F5D_605D4B6A5E2186E4A17516E491D578F8.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/23D53F5D_605D4B6A5E2186E4A17516E491D578F8.chk_patch",
+      "patchSize": 69,
+      "fileId": 702,
+      "path": "23D53F5D/605D4B6A5E2186E4A17516E491D578F8.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/23D53F5D/CB2150D123B50257320F3DD8CE4DCBF6.chk",
+      "fileName": "4dcef413-d0d9-4784-9290-936952c0d4a9",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/B9358E30_5B67C40A534CB4AEF245ADABAA3AF9D0.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/B9358E30_5B67C40A534CB4AEF245ADABAA3AF9D0.chk_patch",
+      "patchSize": 65,
+      "fileId": 4,
+      "path": "B9358E30/5B67C40A534CB4AEF245ADABAA3AF9D0.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/B9358E30/6B7382A934C0B227F62364ABE09FF25E.chk",
+      "fileName": "63bb5e15-4110-4c28-9e55-d9490a9a97e5",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/23D53F5D_757E527F0EDF9E6577D21DA39E98AD4F.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/23D53F5D_757E527F0EDF9E6577D21DA39E98AD4F.chk_patch",
+      "patchSize": 54,
+      "fileId": 706,
+      "path": "23D53F5D/757E527F0EDF9E6577D21DA39E98AD4F.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/23D53F5D/DA42A5F4754CB781B09836867A7FBC00.chk",
+      "fileName": "66b7ed1c-101a-46c9-8ce6-de006d356a5c",
+      "md5": ""
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_FE9FFDC14CC3F8D29C5EEFE496041F3B.chk_patch": {
+      "patchUrl": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.2/resource/Android/main/6668018-9_MYxdTxn1ce4XkDIp/files/Patch/diff_6668018-9_6628375-7/775A31D1_FE9FFDC14CC3F8D29C5EEFE496041F3B.chk_patch",
+      "patchSize": 47,
+      "fileId": 536,
+      "path": "775A31D1/FE9FFDC14CC3F8D29C5EEFE496041F3B.chk",
+      "base": "/storage/emulated/0/Android/data/com.hypergryph.endfield/files/VFS/775A31D1/D0752B17A84373D4BBCE46403640AF36.chk",
+      "fileName": "6310922f-404b-4047-87ff-e55a9184f38c",
+      "md5": ""
+    }
+  }
+}
