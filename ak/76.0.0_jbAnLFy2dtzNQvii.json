@@ -1,0 +1,148 @@
+{
+  "action": 1,
+  "version": "76.0.0",
+  "request_version": "75.0.0",
+  "pkg": {
+    "packs": [
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.001",
+        "md5": "e7871f255d95c4091771db32c7e59853",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.002",
+        "md5": "a8eea55fb1ea681293871a4c5e0b6882",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.003",
+        "md5": "b9103a69c996524e67aff087a61b99fa",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.004",
+        "md5": "3fb07b47eedd6719c218cbf0a132990c",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.005",
+        "md5": "ecbfc405565bd1a40670f42cb674bd21",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.006",
+        "md5": "087d93b7eeb1c3c36eb62144cd8aed82",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.007",
+        "md5": "1fe7f5304bde3721690a7ac868d819ab",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.008",
+        "md5": "343c18f8a35b5506bcf66ef92a0d0417",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.009",
+        "md5": "c855b6bd4635ace7e7473badae1ea8c2",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.010",
+        "md5": "e7a2528ac501e88401bc6d62923cada4",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.011",
+        "md5": "058f89417950f9a392dbe6b9f9f6a60b",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.012",
+        "md5": "aaab0d6cb99627f4c0c9932e9f820451",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.013",
+        "md5": "1f586b661725cd2694de157e5f7d86d9",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.014",
+        "md5": "aef98738a07a51b36b53e52a70bae13c",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.015",
+        "md5": "5e99d2bcda3940f82a08e294c6e969cc",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.016",
+        "md5": "22661b49210930dae318ec76dcc84fcf",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.017",
+        "md5": "1bb123f991ccf5ae256f8a2d956d8ae2",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.018",
+        "md5": "5135d6a664640ce18f9ac86c6a2adf06",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.019",
+        "md5": "3cb5461803f2c85c9a6eca6cb2e79647",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/packs/production_076-76.0.0-77edc7a6880-45-HG.zip.020",
+        "md5": "c6b2e469bdb973dbb6c63ab28304751f",
+        "package_size": "306117778"
+      }
+    ],
+    "total_size": "45574409193",
+    "file_path": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_jbAnLFy2dtzNQvii/files",
+    "url": "",
+    "md5": "",
+    "package_size": "0",
+    "file_id": "0",
+    "sub_channel": "1",
+    "game_files_md5": "86f10402f2abeb283624ae90f4a0063a"
+  },
+  "patch": {
+    "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_3fb84c5869362f6c/patches/rmPVheecqG/LBartwsMpCtdzhr6_76_0_0_75_0_0.zip",
+    "md5": "8b9ffd4c9dde863681f6dc93a559a03a",
+    "package_size": "1715037826",
+    "total_size": "4054370508",
+    "file_id": "1",
+    "patches": [
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_3fb84c5869362f6c/patches/rmPVheecqG/v2/ZvsPHF2amtJ41lMl_76_0_0_75_0_0.zip.001",
+        "md5": "f3c7bcbbcfe1405dd1cc12de89c0bfbd",
+        "package_size": "1073741824"
+      },
+      {
+        "url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_3fb84c5869362f6c/patches/rmPVheecqG/v2/ZvsPHF2amtJ41lMl_76_0_0_75_0_0.zip.002",
+        "md5": "671b1ad3bd54c55f12dff4bc44f697b4",
+        "package_size": "641296002"
+      }
+    ],
+    "v2_patch_info_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_3fb84c5869362f6c/patches/rmPVheecqG/75.0.0/v2/patch.json",
+    "v2_patch_info_size": "2828807",
+    "v2_patch_info_md5": "acd9017d0cb9c47b5fbb432eb5660b2a",
+    "cd_key": "Slw3HQEZNqM83Q9HYKfQpp2mPLB4rA7p",
+    "v2_verify_files_url": "https://ak.hycdn.cn/GzD1CpaWgmSq1wew/76.0/update/1/1/Windows/76.0.0_3fb84c5869362f6c/patches/rmPVheecqG/75.0.0/v2/verify_files",
+    "v2_verify_files_size": "605648",
+    "v2_verify_files_md5": "19c1187233279343edbd3a7c761754f7",
+    "v2_verify_category_list": []
+  },
+  "state": 0,
+  "launcher_action": 0,
+  "pre_patch": null,
+  "client_version": "2.7.61"
+}
