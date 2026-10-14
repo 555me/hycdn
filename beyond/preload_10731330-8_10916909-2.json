@@ -1,0 +1,40 @@
+{
+  "downloadType": 0,
+  "downloadData": {
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.001": {
+      "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.001?auth_key=1791864114-a21708e6bdee421faf379c89875b2fe4-0-b544f61cbcda05f8a06eb386ddd88db8",
+      "size": 1073741824,
+      "fileId": 1,
+      "fileName": "498dc142-40f9-48a4-969c-49b5d7b4f274",
+      "path": "ZmsRIP_pre_patch.zip.001.tmp"
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.002": {
+      "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.002?auth_key=1791864114-b8bdc0a82729450d9c80fee5da46ced7-0-0f5ac18dce96c90fe48b03e3230cf959",
+      "size": 1073741824,
+      "fileId": 2,
+      "fileName": "789f8e0c-aab3-4d11-8e36-769054380a5c",
+      "path": "ZmsRIP_pre_patch.zip.002.tmp"
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.003": {
+      "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.003?auth_key=1791864114-68af368d7fdc4a778a367f3a25056272-0-3d3ef1645bcfbddfd8d9a45dde6ab836",
+      "size": 1073741824,
+      "fileId": 3,
+      "fileName": "14e89beb-0fb6-4cd7-b53c-b42ed5f40fbf",
+      "path": "ZmsRIP_pre_patch.zip.003.tmp"
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.004": {
+      "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.004?auth_key=1791864114-1aaf12ca71f84ee68d0c79c18aa80362-0-0643c4151cb8f326faf875782d7d9af7",
+      "size": 1073741824,
+      "fileId": 4,
+      "fileName": "da3737c2-4566-43ac-86b3-78fcc1b77afe",
+      "path": "ZmsRIP_pre_patch.zip.004.tmp"
+    },
+    "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.005": {
+      "url": "https://beyond.hycdn.cn/6LL0KJuqHBVz33WK/1.6/update/resource_pre_patch/Android/10916909-2_QkE9opGZbzQp63Ks/Android/packs/ZmsRIP_pre_patch.zip.005?auth_key=1791864114-8aac44366532484d9de798ea1256c497-0-f502348b2ac96908252f61aa1bd9c0ae",
+      "size": 691799464,
+      "fileId": 5,
+      "fileName": "35373c9f-ae5a-449f-ad99-9df57427f217",
+      "path": "ZmsRIP_pre_patch.zip.005.tmp"
+    }
+  }
+}
